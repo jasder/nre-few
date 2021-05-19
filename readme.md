@@ -44,7 +44,5 @@ support with [documentation](https://try.gitea.io/api/swagger).
 ## Contributing
 
 ADD file
-ADD
-ADD file 
 
 Expected workflow is: Fork -> Patch -> Push -> Pull Request
