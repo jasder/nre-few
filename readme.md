@@ -1,6 +1,4 @@
 # nre-few
-This is nre-few project！
-Oh，Is Nice
 Very Good! Thanks！
 ## Purpose
 
